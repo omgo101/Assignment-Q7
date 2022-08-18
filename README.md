@@ -1,4 +1,4 @@
-# Assignment-Q7
+# Assignment
 ### Solving question of
 Q7) Calculate Mean, Median, Mode, Variance, Standard Deviation, Range &     comment about the values / draw inferences, for the given dataset
 -	For Points,Score,Weigh
