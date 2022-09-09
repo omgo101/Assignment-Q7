@@ -23,4 +23,12 @@ Ans  this its not normal distribution and it is Right-Skewed <br /> <br />
 (iii)	If it was found that the data point with the value 25 is actually 2.5, how would the new box-plot be affected? <br /> <br />
 Ans no Outliers because of the outlier the data will have  positive skewness it  will normal distributed
 
+![image](https://user-images.githubusercontent.com/79073189/189366408-3b5a64fa-1a89-4e74-9fc5-1a07338ccc13.png)  <br />
+Answer the following three questions based on the histogram above.  <br />
+(i)	Where would the mode of this dataset lie?  <br /> <br />
+Ans lie  between 5 to 10  approximately  <br />
+(ii)	Comment on the skewness of the dataset.	 <br /> <br />
+Ans Right-Skewed. <br />
+(iii)	Suppose that the above histogram and the box-plot in question 2 are plotted for the same dataset. Explain how these graphs complement each other in providing information about any dataset.  <br /> <br />
+Ans : both will have right-skewed  outliers <br />
 
